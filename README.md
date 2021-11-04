@@ -1,1 +1,1 @@
-# Hashing_project, using bcrypt nad basic auth
+# Hashing_project, using bcrypt and basic auth
