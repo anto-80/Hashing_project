@@ -1,0 +1,11 @@
+It was the best of times it was the worst of times!
+
+What does this look like hashed??
+
+run...
+
+```
+certutil -hashfile file.txt sha512 (Windows)
+
+shasum -a 256 file.txt (Mac)
+```
